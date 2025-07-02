@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince221500&label=Profile%20views&color=0e75b6&style=flat" alt="prince221500" /> </p>
+
 ![logo](https://github.com/prince221500/prince221500/blob/main/Banner.png?raw=true)
 
 
@@ -8,11 +10,9 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince221500&label=Profile%20views&color=0e75b6&style=flat" alt="prince221500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince221500" alt="prince221500" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince221500&" alt="prince221500" /></p>
 
 
-<img  alt="coding" hight="100" width="7000" src="https://github.com/prince221500/prince221500/blob/main/tech.gif?raw=true">
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince221500" alt="prince221500" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
+
+
+
+<img  alt="coding" hight="10" width="1000" src="https://github.com/prince221500/prince221500/blob/main/tech.gif?raw=true">
 
 
 <img alt="coding" hight="10" width="3000" src="https://github.com/prince221500/prince221500/blob/main/software_intern.png?raw=true">
