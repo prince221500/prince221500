@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm prince kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Frecognizeapp.com%2Fcms%2Fintegrations%2Fgithub&psig=AOvVaw1uUEyBLysvQFOlJmxfkNgm&ust=1751533863909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjl_qLqnY4DFQAAAAAdAAAAABAE”>
+<img align=“right” alt=“coding” width=“400” src=“”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince221500&label=Profile%20views&color=0e75b6&style=flat" alt="prince221500" /> </p>
 
