@@ -50,12 +50,3 @@
 
 <img  alt="coding" hight="10" width="1000" src="https://github.com/prince221500/prince221500/blob/main/tech.gif?raw=true">
 
-
-<img alt="coding" hight="10" width="3000" src="https://github.com/prince221500/prince221500/blob/main/software_intern.png?raw=true">
-<img aline="right" alt="coding" hight="100" width="300" src="https://github.com/prince221500/prince221500/blob/main/JavaScript_Basic.png?raw=true">
-<img  alt="coding" hight="100" width="300" src="https://github.com/prince221500/prince221500/blob/main/SQL_Advanced.png?raw=true">   
-<img align="left" alt="coding" width="300" src="https://github.com/prince221500/prince221500/blob/main/css_basic.png?raw=true">   
-<img  align="left" alt="coding" width="300" src="https://github.com/prince221500/prince221500/blob/main/java_basic.png?raw=true">
-<img align="left"  alt="coding" hight="100" width="300" src="https://github.com/prince221500/prince221500/blob/main/python_basic.png?raw=true">   
-<img align="left"  alt="coding"  hight="100" width="300"  src="https://github.com/prince221500/prince221500/blob/main/sql_basic.png?raw=true">   
-
