@@ -42,6 +42,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince221500" alt="prince221500" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ 
 
 
 
@@ -49,4 +50,5 @@
 
 
 <img  alt="coding" hight="10" width="1000" src="https://github.com/prince221500/prince221500/blob/main/tech.gif?raw=true">
+
 
