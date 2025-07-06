@@ -2,17 +2,10 @@
 
 ![logo](https://github.com/prince221500/prince221500/blob/main/Banner.png?raw=true)
 
-
-
-
 <h1 align="center">Hi 👋, I'm prince kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
-
-
-
-
 
 <h3 align="left">Connect with me 💕</h3>
 <p align="left">
@@ -38,16 +31,10 @@
 
 
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince221500" alt="prince221500" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
-
-
-
-
-
 
 <img  alt="coding" hight="10" width="1000" src="https://github.com/prince221500/prince221500/blob/main/tech.gif?raw=true">
 
