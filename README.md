@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince221500&label=Profile%20views&color=0e75b6&style=flat" alt="prince221500" /> </p>
 
-![logo](https://i.postimg.cc/9fZLx5mt/Whats-App-Image-2025-08-12-at-02-07-38.jpg)
+
 
 <h1 align="center">Hi 👋, I'm prince kumar</h1>     
 <h3 align="center">A passionate frontend developer from India</h3>         
-m         
+       
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
         
 <h3 align="left">Connect with me 💕</h3>  
